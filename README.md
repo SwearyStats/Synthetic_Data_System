@@ -2,7 +2,7 @@
 # Synthetic Data Experimental Research System
 
 ### Euan Gardner
-### Senior Information Development Manager
+### PhD Physics Student Ryerson University (Canada)
 ---
 
 ### Welcome!
