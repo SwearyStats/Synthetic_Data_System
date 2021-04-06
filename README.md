@@ -31,7 +31,6 @@ The current system is designed to handle large amounts of data with minimal inpu
   - Removes any data below a count specified to increase privacy as small counts can be problematic
   - Can create synthetic labels for more accurate synthesis
   - Performs iterative synthesis
-  - Cluster numeric data using Gaussian Mixture Models (GMM) to make synthesis easier
   - Uses probability sampling to handle demographic variables
   - All parameters fully customisable but default parameters built in for ease of use
 
