@@ -2,7 +2,7 @@
 # Synthetic Data Experimental Research System
 
 ### Euan Gardner
-### PhD Physics Student Ryerson University (Canada)
+### PhD Student
 ---
 
 ### Welcome!
